@@ -1,0 +1,159 @@
+repo_name: Martins-O/WordConverter-Api
+report_id: 16ee586af4a3cb066368fd22c0de1a5c
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-10T15:19:54+00:00'
+requested_by: Martins-O
+provider: github
+branch: indev
+detected_tools_count: 12
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api
+  detection_source: Repo Metadata
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api
+  detection_source: Repo Metadata
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/src/main/resources/application.properties
+  detection_source: src/main/resources/application.properties
+- name: org.apache.pdfbox:pdfbox
+  description: The Apache PDFBox library is an open source Java tool for working with
+    PDF documents
+  version: 2.0.28
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.apache.poi:poi
+  description: Apache POI - Java API To Access Microsoft Format Files
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.apache.poi:poi-ooxml
+  description: Apache POI - Java API To Access Microsoft Format Files
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.apache.poi:poi-ooxml-schemas
+  description: Apache POI - Java API To Access Microsoft Format Files
+  version: 4.1.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Martins-O/WordConverter-Api/blob/indev/pom.xml
+  detection_source: pom.xml
+  last_updated_by: martins-o
+  last_updated_on: 2023-06-08 23:58:13.000000000 Z
